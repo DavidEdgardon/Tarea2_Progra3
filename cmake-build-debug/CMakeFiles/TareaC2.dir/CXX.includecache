@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/TareaC2/cmake-build-debug/Evaluador.cpp
+Evaluador.h
+C:/Users/ASUS/CLionProjects/TareaC2/cmake-build-debug/Evaluador.h
+
+C:/Users/ASUS/CLionProjects/TareaC2/cmake-build-debug/Evaluador.h
+iostream
+-
+stack
+-
+
+C:/Users/ASUS/CLionProjects/TareaC2/cmake-build-debug/Main.cpp
+Evaluador.h
+C:/Users/ASUS/CLionProjects/TareaC2/cmake-build-debug/Evaluador.h
+iostream
+-
+cmath
+-
+
